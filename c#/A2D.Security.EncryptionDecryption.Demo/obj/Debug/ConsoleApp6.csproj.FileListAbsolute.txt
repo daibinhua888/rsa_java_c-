@@ -1,0 +1,12 @@
+c:\users\z\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojResolveAssemblyReference.cache
+c:\users\z\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+c:\users\z\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+c:\users\z\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+c:\users\z\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+c:\users\z\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+D:\BaiduYunDownload\rsa_java_c_sharp\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+D:\BaiduYunDownload\rsa_java_c_sharp\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+D:\BaiduYunDownload\rsa_java_c_sharp\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+D:\BaiduYunDownload\rsa_java_c_sharp\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojResolveAssemblyReference.cache
+D:\BaiduYunDownload\rsa_java_c_sharp\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+D:\BaiduYunDownload\rsa_java_c_sharp\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
